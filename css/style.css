@@ -43,13 +43,17 @@ body {
     border-top: 5px solid #e78200;
 }
 
+.link-home {
+    width: 200px;
+}
+
 .banner {
     background-image: url(../images/banner.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
-    height: 566px;
+    height: 400px;
 }
 
 .logo-glow {
