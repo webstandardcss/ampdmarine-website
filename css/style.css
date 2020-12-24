@@ -6,10 +6,6 @@
     box-sizing: border-box;
 }
 
-w-full {
-    row-gap: 0;
-}
-
 body {
     font-family: 'Montserrat', sans-serif;
     color: rgba(240, 240, 240, 1);
@@ -72,16 +68,4 @@ body {
 
 a:hover {
     color: #e78200;
-}
-
-@media (max-width: 636px) {
-    header h1 {
-        font-size: 2rem;
-    }
-    main h3 {
-        font-size: 1.5rem;
-    }
-    main li {
-        font-size: 1rem;
-    }
 }
