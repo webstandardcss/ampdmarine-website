@@ -64,7 +64,10 @@ body {
 
 .main-nav {
     background-color: #000;
-    padding: 240px auto;
+}
+
+.brand {
+    border: solid 0.5px #ccc;
 }
 
 a:hover {
