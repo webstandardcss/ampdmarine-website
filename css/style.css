@@ -47,6 +47,10 @@ body {
     width: 200px;
 }
 
+.active-flex {
+    display: flex;
+}
+
 .banner {
     background-image: url(../images/banner.jpg);
     background-position: center center;
