@@ -73,6 +73,11 @@ header {
 
 .main-nav {
     background-color: #000;
+    min-height: 80px;
+}
+
+#nav-toggle {
+    right: 0;
 }
 
 .brand {
