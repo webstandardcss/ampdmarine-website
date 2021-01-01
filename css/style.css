@@ -52,7 +52,7 @@ header {
     width: 200px;
 }
 
-.active-flex {
+.nav-links.active-flex {
     display: flex;
 }
 
@@ -86,4 +86,10 @@ header {
 
 a:hover {
     color: #e78200;
+}
+
+@media screen and (max-width: 1024px) {
+    .nav-links {
+        display: none;
+    }
 }
